@@ -1,0 +1,6 @@
+{
+  "name": "ARAVIND SYSTEM",
+  "description": "Personal Real-Life RPG Progression System & Futuristic Operating Interface for ARAVIND",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
